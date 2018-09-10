@@ -1,1 +1,2 @@
-Hello World!
+Hello World! The faculty of Information and Communication Technology my commit to the my NewFeature baranch
+add from the master
